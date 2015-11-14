@@ -1,0 +1,11 @@
+this is my first C-Prime-Plus file
+author:chengqiang
+time:2015/11/14
+function:just say HelloWorld
+
+#include<stdio.h>
+int main(){
+  printf("Hello World");
+  
+  return 0;
+}
